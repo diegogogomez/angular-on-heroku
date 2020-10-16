@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-on-heroku"
+    }
+  },
+  "defaultProject": "angular-on-heroku",
+  "cli": {
+    "analytics": "5419f1a4-7743-4c10-a4b0-05dd22005607"
+  }
 }
