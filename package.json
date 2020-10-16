@@ -16,6 +16,7 @@
   },
   "private": true,
   "dependencies": {
+    "express": "~4.17.1",
     "@angular/cli": "^10.1.7",
     "@angular/compiler-cli": "^10.1.6",
     "@angular/animations": "~10.1.1",
